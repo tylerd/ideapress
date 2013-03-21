@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="IdeaPress" Version="1.0.0.0" Publisher="CN=Raymond" />
+  <Identity Name="54460TylerD.TylersAzureBlog" Version="1.1.0.0" Publisher="CN=20A65CE6-6D3A-4615-8848-7D8CB7D63238" />
   <Properties>
-    <DisplayName>IdeaPress</DisplayName>
+    <DisplayName>Tyler's Azure Blog</DisplayName>
     <Description>IdeaPress</Description>
-    <PublisherDisplayName>IdeaNotion Development Inc.</PublisherDisplayName>
+    <PublisherDisplayName>Tyler D</PublisherDisplayName>
     <Logo>images\storelogo.png</Logo>
   </Properties>
   <Prerequisites>
@@ -16,8 +16,8 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <VisualElements DisplayName="IdeaPress" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="IdeaPress" ForegroundText="dark" BackgroundColor="#ffffff">
-        <DefaultTile ShowName="noLogos" WideLogo="images\widelogo.png" ShortName="IdeaPress" />
+      <VisualElements DisplayName="Tyler's Azure Developer Blog" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="IdeaPress" ForegroundText="dark" BackgroundColor="#ffffff">
+        <DefaultTile ShowName="noLogos" WideLogo="images\widelogo.png" ShortName="Tyler's Blog" />
         <SplashScreen Image="images\splashscreen.png" BackgroundColor="#ffffff" />
         <InitialRotationPreference>
           <Rotation Preference="portrait" />
